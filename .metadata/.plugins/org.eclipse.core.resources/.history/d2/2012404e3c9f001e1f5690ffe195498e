@@ -1,0 +1,10 @@
+package javaexpression;
+
+public class Javaexpression3 {
+	public static void main(String[] args) {
+		int x=2,a=10;
+		System.out.println(Math.exp(2*x-4*x));
+		System.out.println(Math.sqrt(Math.sin(a))+Math.tan(a)-Math.exp(2*x));
+	}
+
+}
